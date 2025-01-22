@@ -1,0 +1,1 @@
+Online movie reiew and recoomendation system where frontend is based on basic HTML, CSS and Javascript and the backend is on node.js and express.js. The recommendation system is made on the machine learning algorithm The k-nearest neighbors (kNN) algorithm.
